@@ -13,7 +13,7 @@ const PASSWORD_CONFIG = {
 // 网站信息配置
 const SITE_CONFIG = {
     name: 'IcrownTV',
-    url: 'https://libretv.is-an.org',
+    url: 'https://76b0f181.myitv-cdh.pages.dev/',
     description: '免费在线视频搜索与观看平台',
     logo: '.https://icrown.io/wp-content/uploads/2024/11/icrown-logo-03.png',
     version: '1.0.3'
