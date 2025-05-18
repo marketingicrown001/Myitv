@@ -12,10 +12,10 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'LibreTV',
+    name: 'IcrownTV',
     url: 'https://libretv.is-an.org',
     description: '免费在线视频搜索与观看平台',
-    logo: './image/retrotv_5520.png',
+    logo: '.https://icrown.io/wp-content/uploads/2024/11/icrown-logo-03.png',
     version: '1.0.3'
 };
 
