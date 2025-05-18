@@ -15,7 +15,7 @@ const SITE_CONFIG = {
     name: 'IcrownTV',
     url: 'https://76b0f181.myitv-cdh.pages.dev/',
     description: '免费在线视频搜索与观看平台',
-    logo: '.https://icrown.io/wp-content/uploads/2024/11/icrown-logo-03.png',
+    logo: '.https://github.com/marketingicrown001/Myitv/blob/main/image/icrown%20logo%2003.png',
     version: '1.0.3'
 };
 
